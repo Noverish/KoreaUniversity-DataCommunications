@@ -1,10 +1,13 @@
 # Korea University Data Communications and Networking Term Project
-### Implementaion of PPP Layer 2 Protocol
+Implementaion of PPP Layer 2 Protocol
 
 ## Environment
 Ubuntu 12.04.4 LTS
+
 GNU Make 3.81
+
 gcc (Ubuntu/Linaro 4.6.3-1ubuntu5) 4.6.3
+
 Serial Port Setup in VirtualBox - detail is in professor's ppt
 
 ## Compile
