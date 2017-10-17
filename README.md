@@ -1,10 +1,12 @@
-# DataCommunicationsAndNetworking_PPP
+# Korea University Data Communications and Networking Term Project
+## Implementaion of PPP Layer 2 Protocol
 
 
-Run below
+Run below in pp2.c existing directory
 ```
 make pp2
 ```
+then runnable file will be generated
 
 ### Run with default option (accomp, pcomp)
 
