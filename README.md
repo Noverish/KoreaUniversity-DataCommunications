@@ -1,6 +1,8 @@
 # Korea University Data Communications and Networking Term Project
 Implementaion of PPP Layer 2 Protocol
 
+### PPP analysis and report is in hw1 directory
+
 ## Environment
 Ubuntu 12.04.4 LTS
 
